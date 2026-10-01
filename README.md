@@ -161,3 +161,14 @@ Example:
 
 ```html
 <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+
+```
+## 📖 Description
+
+Nature's Platter is a modern and responsive grocery landing page built using **HTML5 and Tailwind CSS**. The project presents a fresh grocery brand through an attractive interface featuring products, services, promotional offers, and customer-focused sections.
+
+The website includes a **responsive navigation bar, hero section, services section, popular products, promotional offers, newsletter subscription area, social media links, and footer**. Tailwind CSS utility classes were used to create responsive layouts with **Flexbox, CSS Grid, spacing, typography, colors, responsive breakpoints, and modern UI components**.
+
+The project also focuses on creating a **mobile-friendly experience**, where navigation, product cards, service cards, promotional sections, and footer content automatically adapt to different screen sizes.
+
+This project was created to strengthen practical skills in **Tailwind CSS, responsive web design, utility-first styling, CSS Grid, Flexbox, and building modern landing pages without custom CSS frameworks**.
